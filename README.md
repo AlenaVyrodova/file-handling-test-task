@@ -1,5 +1,5 @@
-<span style="color📘"># file-handling-test-task
-</span>
+# **file-handling-test-task** 
+
 This application performs the following functions:
 
 - Finds the maximum number in the file.
